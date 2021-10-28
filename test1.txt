@@ -1,3 +1,4 @@
 Hey ! This is just a quick test !
 To test out the magic that is git branching !
 And to test out the wonderful git pull !
+As well as the amazing git fetch !
